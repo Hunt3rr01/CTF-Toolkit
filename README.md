@@ -53,7 +53,7 @@ The tools and resources listed here may be capable of performing intrusive actio
 - [About This Repository](#-about-this-repository)
 - [OSINT & Reconnaissance](#-osint--reconnaissance)
 - [Network Analysis & Enumeration](#-network-analysis--enumeration)
-- [Vulnerability Scanners](#-vulnerability-scanners)
+- [Vulnerability Scanners](#%EF%B8%8F-vulnerability-scanners)
 - [Web Application Security](#-web-application-security)
 - [Exploitation & Penetration Testing](#-exploitation--penetration-testing)
 - [Active Directory & Windows Security](#-active-directory--windows-security)
@@ -61,11 +61,12 @@ The tools and resources listed here may be capable of performing intrusive actio
 - [Wireless Security](#-wireless-security)
 - [Digital Forensics & Malware Analysis](#-digital-forensics--malware-analysis)
 - [Social Engineering](#-social-engineering)
-<!-- - [Useful Websites & Online Services](#-useful-websites--online-services) -->
 - [Cheat Sheets & Documentation](#-cheat-sheets--documentation)
+- [License](#-license)
+<!-- - [Useful Websites & Online Services](#-useful-websites--online-services) -->
 <!-- - [Learning Platforms & Labs](#-learning-platforms--labs) -->
 <!-- - [Contributing](#-contributing) -->
-- [License](#-license)
+
 
 ---
 
