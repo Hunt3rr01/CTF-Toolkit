@@ -196,12 +196,11 @@ Tools for auditing wireless networks and researching Wi-Fi security in authorize
 ## 🧬 Digital Forensics & Malware Analysis
 
 Resources for incident investigation, file analysis, reverse engineering, and digital evidence examination.
-🚧 Coming Soon: This section is currently under development and will be expanded in a future update. Stay tuned!
 
+| Tool | Type | Description | Link |
+|---|---|---|---|
+| **Aperi'Solve** | Website | Online tool useful for steganography and quick file analysis. It automatically scan images using popular programs like ExifTool or Strings, saving you time compared to manual analysis. | [Aperi'Solve](https://www.aperisolve.com/) |
 <!--
-| Tool | Description | Link |
-|---|---|---|
-| **Autopsy** | Digital forensics platform. | [Website](https://www.autopsy.com/) |
 | **Volatility 3** | Advanced memory forensics framework. | [GitHub](https://github.com/volatilityfoundation/volatility3) |
 | **Ghidra** | Software reverse engineering framework. | [GitHub](https://github.com/NationalSecurityAgency/ghidra) |
 | **CyberChef** | Browser-based data analysis and transformation toolkit. | [GitHub](https://github.com/gchq/CyberChef) |
@@ -224,11 +223,12 @@ Resources for understanding human-centric security risks, phishing awareness, an
 ## 📚 Cheat Sheets & Documentation
 
 Quick references, technical documentation, and security testing methodologies.
-🚧 Coming Soon: This section is currently under development and will be expanded in a future update. Stay tuned!
 
-<!--
+
 | Resource | Description | Link |
 |---|---|---|
+|Aperi'Solve Wiki| Great source of knowledge about steganography and CTF file analysis| [Aperi'Solve Wiki](https://www.aperisolve.com/wiki/) |
+<!--
 | **OWASP Cheat Sheet Series** | Practical application security guidance. | [Visit](https://cheatsheetseries.owasp.org/) |
 | **PayloadsAllTheThings** | Security testing payloads and methodology references. | [GitHub](https://github.com/swisskyrepo/PayloadsAllTheThings) |
 | **HackTricks** | Technical knowledge base for penetration testing. | [Website](https://book.hacktricks.wiki/) |
