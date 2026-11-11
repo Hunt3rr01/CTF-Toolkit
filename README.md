@@ -55,7 +55,7 @@ The tools and resources listed here may be capable of performing intrusive actio
 - [Network Analysis & Enumeration](#-network-analysis--enumeration)
 - [Vulnerability Scanners](#%EF%B8%8F-vulnerability-scanners)
 - [Web Application Security](#-web-application-security)
-- [Exploitation & Penetration Testing](#-exploitation--penetration-testing)
+- [Exploitation & Penetration Testing](#%EF%B8%8F-exploitation--penetration-testing)
 - [Active Directory & Windows Security](#-active-directory--windows-security)
 - [Password Security & Hash Analysis](#-password-security--hash-analysis)
 - [Wireless Security](#-wireless-security)
