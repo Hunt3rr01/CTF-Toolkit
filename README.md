@@ -227,7 +227,8 @@ Quick references, technical documentation, and security testing methodologies.
 
 | Resource | Description | Link |
 |---|---|---|
-|Aperi'Solve Wiki| Great source of knowledge about steganography and CTF file analysis| [Aperi'Solve Wiki](https://www.aperisolve.com/wiki/) |
+| **Aperi'Solve Wiki** | Great source of knowledge about steganography and CTF file analysis | [Aperi'Solve Wiki](https://www.aperisolve.com/wiki/) |
+| **StegOnline CTF Checklist** | Simple and usefull steganography checklist for CTF | [StegOnline Checklist](https://georgeom.net/StegOnline/checklist) | 
 <!--
 | **OWASP Cheat Sheet Series** | Practical application security guidance. | [Visit](https://cheatsheetseries.owasp.org/) |
 | **PayloadsAllTheThings** | Security testing payloads and methodology references. | [GitHub](https://github.com/swisskyrepo/PayloadsAllTheThings) |
